@@ -1,0 +1,14 @@
+D:\Documents\Activity 5\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.exe
+D:\Documents\Activity 5\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.deps.json
+D:\Documents\Activity 5\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.runtimeconfig.json
+D:\Documents\Activity 5\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.dll
+D:\Documents\Activity 5\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.pdb
+D:\Documents\Activity 5\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Activity 5\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfoInputs.cache
+D:\Documents\Activity 5\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfo.cs
+D:\Documents\Activity 5\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Documents\Activity 5\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.dll
+D:\Documents\Activity 5\MultiplicationTable\obj\Debug\net8.0\refint\MultiplicationTable.dll
+D:\Documents\Activity 5\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.pdb
+D:\Documents\Activity 5\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.genruntimeconfig.cache
+D:\Documents\Activity 5\MultiplicationTable\obj\Debug\net8.0\ref\MultiplicationTable.dll
